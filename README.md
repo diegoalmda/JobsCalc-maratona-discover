@@ -45,4 +45,6 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](.github/LICENSE.md) para mais detalhes.
 
-Projeto desenvolvido a partir da Maratona Discover da escola Rocketseat.
+---
+
+Feito por Diego Almeida :wave: #MaratonaDiscover #Rocketseat
